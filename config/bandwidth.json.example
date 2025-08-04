@@ -1,0 +1,14 @@
+{
+    "uptimeKumaUrl": "http://your-uptime-kuma-instance:3001",
+    "interval": 1200000,
+    "monitors": {
+        "cgtToGemini": {
+            "pushToken": "YOUR_PUSH_TOKEN_1",
+            "description": "CGT to Gemini-Data1 Bandwidth"
+        },
+        "localToCgt": {
+            "pushToken": "YOUR_PUSH_TOKEN_2", 
+            "description": "Local to CGT Bandwidth"
+        }
+    }
+}

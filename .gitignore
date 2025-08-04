@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Configuration with sensitive data
+config/bandwidth.json
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
